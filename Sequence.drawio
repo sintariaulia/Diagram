@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T06:41:08.080Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WiQQkajiG3eY1aK5jeeJ" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-28T06:42:43.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NS_ckOPaDptz_47_AsqW" version="21.6.9" type="github" pages="2">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1194" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
             <mxPoint x="321" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sn3FwDoTZeHQikSD8n-1-19" value="Klik update dihalaman kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Sn3FwDoTZeHQikSD8n-1-19" value="Klik update di salah satu data kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="95" y="208" as="sourcePoint" />
             <Array as="points">
@@ -217,7 +217,7 @@
             <mxPoint x="325" y="208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sn3FwDoTZeHQikSD8n-1-20" value="Mengupdate data kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Sn3FwDoTZeHQikSD8n-1-20" value="Update data yang ingin diubah" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="96" y="280" as="sourcePoint" />
             <Array as="points">
