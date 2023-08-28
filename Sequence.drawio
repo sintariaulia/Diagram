@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T13:16:11.214Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="z6JcZiMkYtTH8PEAUH6i" version="21.6.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-28T13:17:47.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8I1QsRDO688jCUjB5FBC" version="21.6.9" type="github" pages="9">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2044" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -155,13 +155,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-4" value="Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="100" height="390" as="geometry" />
+          <mxGeometry x="40" y="40" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Sn3FwDoTZeHQikSD8n-1-4" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-6" value="Frontend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="280" y="40" width="100" height="390" as="geometry" />
+          <mxGeometry x="280" y="40" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Sn3FwDoTZeHQikSD8n-1-6" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="60" as="geometry" />
@@ -175,12 +175,13 @@
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Sn3FwDoTZeHQikSD8n-1-6" vertex="1">
           <mxGeometry x="45" y="154" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sn3FwDoTZeHQikSD8n-1-11" value="Masuk ke halaman kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="Sn3FwDoTZeHQikSD8n-1-5" target="Sn3FwDoTZeHQikSD8n-1-7" edge="1">
+        <mxCell id="Sn3FwDoTZeHQikSD8n-1-11" value="Masuk ke halaman kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="195" y="130" as="sourcePoint" />
+            <mxPoint x="95" y="123" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="180" y="120" />
+              <mxPoint x="180" y="123" />
             </Array>
+            <mxPoint x="325" y="123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-12" value="Menampilkan halaman form update kategori" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
@@ -191,7 +192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-13" value="Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="520" y="40" width="100" height="340" as="geometry" />
+          <mxGeometry x="520" y="40" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Sn3FwDoTZeHQikSD8n-1-13" vertex="1">
           <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
@@ -200,16 +201,16 @@
           <mxGeometry x="45" y="300" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-16" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="700" y="40" width="100" height="340" as="geometry" />
+          <mxGeometry x="700" y="40" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Sn3FwDoTZeHQikSD8n-1-16" vertex="1">
           <mxGeometry x="45" y="260" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-18" value="Menampilkan list kategori" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="96" y="160" as="targetPoint" />
+            <mxPoint x="96" y="157" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="321" y="160" as="sourcePoint" />
+            <mxPoint x="321" y="157" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sn3FwDoTZeHQikSD8n-1-19" value="Klik update di salah satu data kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
@@ -245,6 +246,9 @@
             </Array>
             <mxPoint x="95.5" y="399" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DS3ZDOdt3btbKFuCVc4j-1" value="sd kategori" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=32;" vertex="1" parent="1">
+          <mxGeometry width="840" height="459" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
