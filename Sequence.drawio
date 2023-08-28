@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T13:12:41.522Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="nRfJMIlQuBWHtwRrxgy4" version="21.6.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-28T13:15:55.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="syjjTmFZ8e_SYzLAC7vo" version="21.6.9" type="github" pages="9">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1194" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2044" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-20" value="Mengembalikan response 200 ok" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="370" as="targetPoint" />
+            <mxPoint x="295" y="334" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="567" y="370" as="sourcePoint" />
+            <mxPoint x="527" y="334" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-16" value="Menyimpan data kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="312" as="sourcePoint" />
+            <mxPoint x="530" y="276" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="655" y="312" />
+              <mxPoint x="615" y="276" />
             </Array>
-            <mxPoint x="745" y="312" as="targetPoint" />
+            <mxPoint x="705" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-13" value="Mengirimkan permintaan create kategori&lt;br&gt;(POST /kategori)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;entryX=-0.2;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="566" y="299.5" as="targetPoint" />
+            <mxPoint x="526" y="263.5" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="333" y="300" as="sourcePoint" />
+            <mxPoint x="293" y="264" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="100" height="390" as="geometry" />
+          <mxGeometry y="4" width="100" height="396" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="320" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Frontend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="280" y="40" width="100" height="390" as="geometry" />
+          <mxGeometry x="240" y="4" width="100" height="396" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="60" as="geometry" />
@@ -48,23 +48,24 @@
         <mxCell id="aM9ryv3xv72pqoxQDRHE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="154" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="Masuk ke halaman kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="Masuk ke halaman kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="195" y="130" as="sourcePoint" />
+            <mxPoint x="55" y="88" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="180" y="120" />
+              <mxPoint x="140" y="88" />
             </Array>
+            <mxPoint x="285" y="88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-8" value="Menampilkan halaman form kategori" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="98" y="246" as="targetPoint" />
+            <mxPoint x="58" y="199" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="322" y="246" as="sourcePoint" />
+            <mxPoint x="282" y="199" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-1" value="Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="520" y="40" width="100" height="340" as="geometry" />
+          <mxGeometry x="480" y="4" width="100" height="396" as="geometry" />
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="tXIopvF4Ra2s9pVsoxJs-1" vertex="1">
           <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
@@ -73,51 +74,54 @@
           <mxGeometry x="45" y="300" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-3" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="700" y="40" width="100" height="340" as="geometry" />
+          <mxGeometry x="660" y="4" width="100" height="396" as="geometry" />
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="tXIopvF4Ra2s9pVsoxJs-3" vertex="1">
           <mxGeometry x="45" y="260" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-10" value="Menampilkan list kategori" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="96" y="160" as="targetPoint" />
+            <mxPoint x="56" y="124" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="321" y="160" as="sourcePoint" />
+            <mxPoint x="281" y="124" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-11" value="Klik tambah dihalaman kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="208" as="sourcePoint" />
+            <mxPoint x="55" y="172" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="175" y="208" />
+              <mxPoint x="135" y="172" />
             </Array>
-            <mxPoint x="325" y="208" as="targetPoint" />
+            <mxPoint x="285" y="172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-12" value="Menambahkan data kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="96" y="280" as="sourcePoint" />
+            <mxPoint x="56" y="244" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="176" y="280" />
+              <mxPoint x="136" y="244" />
             </Array>
-            <mxPoint x="326" y="280" as="targetPoint" />
+            <mxPoint x="286" y="244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-19" value="Berhasil menyimpan data" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="577" y="354" as="targetPoint" />
+            <mxPoint x="537" y="318" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="741" y="354" as="sourcePoint" />
+            <mxPoint x="701" y="318" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tXIopvF4Ra2s9pVsoxJs-21" value="Menampilkan list kategori" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="326" y="399" as="sourcePoint" />
+            <mxPoint x="286" y="363" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="181" y="399" />
+              <mxPoint x="141" y="363" />
             </Array>
-            <mxPoint x="95.5" y="399" as="targetPoint" />
+            <mxPoint x="55.5" y="363" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="De7sKsdDXI-TrQm7Oqq0-1" value="sd kategori" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=32;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-39" width="840" height="459" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
