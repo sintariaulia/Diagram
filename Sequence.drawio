@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T13:25:44.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1htgjQup2QCpBwjoqcvX" version="21.6.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-28T13:26:54.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cxodB9-yYW2aV-Bi3MYG" version="21.6.9" type="github" pages="9">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2044" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -617,7 +617,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tb43A-Y3lIxuKbm9xcc3-1" value="Mengembalikan response 200 ok" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="tb43A-Y3lIxuKbm9xcc3-1" value="Response 200 ok" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="335" y="300" as="targetPoint" />
             <Array as="points" />
@@ -633,7 +633,7 @@
             <mxPoint x="744" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tb43A-Y3lIxuKbm9xcc3-3" value="Mengirimkan permintaan delete produk&lt;br&gt;(DELETE /produk)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;entryX=-0.2;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="tb43A-Y3lIxuKbm9xcc3-3" value="Mengirimkan permintaan delete produk&lt;br&gt;(DELETE /produk/:id)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;entryX=-0.2;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="566" y="229.5" as="targetPoint" />
             <Array as="points" />
