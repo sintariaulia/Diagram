@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T04:22:12.344Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iTR7_LUeBoL_5lnmeyTm" version="21.6.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-29T04:23:11.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="fiWXU0gzUGvFfEKPR8wg" version="21.6.9" type="github" pages="5">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2044" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1436,7 +1436,7 @@
             <mxPoint x="1540" y="308" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHbnah07D0_EfuxfgOWS-2" value="Menghapus data penjualan" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="rHbnah07D0_EfuxfgOWS-2" value="Menghapus data pendapatan" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1542" y="240" as="sourcePoint" />
             <Array as="points">
@@ -1445,7 +1445,7 @@
             <mxPoint x="1717" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHbnah07D0_EfuxfgOWS-3" value="Mengirimkan permintaan delete kategori&lt;br&gt;(DELETE /penjualan/:id)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;entryX=-0.2;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="rHbnah07D0_EfuxfgOWS-3" value="Mengirimkan permintaan delete pendapatan&lt;br&gt;(DELETE /pendapatan/:id)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;entryX=-0.2;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1539" y="222.5" as="targetPoint" />
             <Array as="points" />
@@ -1470,7 +1470,7 @@
         <mxCell id="rHbnah07D0_EfuxfgOWS-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rHbnah07D0_EfuxfgOWS-6">
           <mxGeometry x="45" y="239" width="10" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="rHbnah07D0_EfuxfgOWS-10" value="Masuk ke halaman data penjualan" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="rHbnah07D0_EfuxfgOWS-5" target="rHbnah07D0_EfuxfgOWS-7">
+        <mxCell id="rHbnah07D0_EfuxfgOWS-10" value="Masuk ke halaman data pendapatan" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="rHbnah07D0_EfuxfgOWS-5" target="rHbnah07D0_EfuxfgOWS-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1168" y="127" as="sourcePoint" />
             <Array as="points">
@@ -1493,14 +1493,14 @@
         <mxCell id="rHbnah07D0_EfuxfgOWS-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rHbnah07D0_EfuxfgOWS-14">
           <mxGeometry x="45" y="195" width="10" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="rHbnah07D0_EfuxfgOWS-16" value="Menampilkan list data penjualan" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="rHbnah07D0_EfuxfgOWS-16" value="Menampilkan list data pendapatan" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1069" y="157" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="1294" y="157" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHbnah07D0_EfuxfgOWS-17" value="Delete data penjualan yg dipilih" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="rHbnah07D0_EfuxfgOWS-17" value="Delete data pendapatan&amp;nbsp;yg dipilih" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1069" y="205" as="sourcePoint" />
             <Array as="points">
@@ -1516,7 +1516,7 @@
             <mxPoint x="1714" y="294" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHbnah07D0_EfuxfgOWS-19" value="Menampilkan list data penjualan" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="rHbnah07D0_EfuxfgOWS-19" value="Menampilkan list data pendapatan" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1299" y="335" as="sourcePoint" />
             <Array as="points">
@@ -1525,7 +1525,7 @@
             <mxPoint x="1068.5" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHbnah07D0_EfuxfgOWS-20" value="sd kategori" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=32;" vertex="1" parent="1">
+        <mxCell id="rHbnah07D0_EfuxfgOWS-20" value="sd&amp;nbsp;pendapatan" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=90;height=30;" vertex="1" parent="1">
           <mxGeometry x="990" y="-10" width="810" height="390" as="geometry" />
         </mxCell>
       </root>
