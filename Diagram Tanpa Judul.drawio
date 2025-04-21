@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Halaman-1" id="lDfFB0H2LgIuX2-iN0OB">
-    <mxGraphModel>
+    <mxGraphModel dx="1828" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="120" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-3" value="Identifikasi Masalah dan Studi Literatur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="189" width="129" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416.25" y="350" as="sourcePoint" />
+            <mxPoint x="416.2580645161289" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-11" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Perancangan Instrumen&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="260" width="195.5" height="90" as="geometry">
+            <mxRectangle x="360" y="290" width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-12" value="1. Pembuatan Kursioner SUMI&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Validasi isi Kursioner&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;strokeWidth=4;perimeterSpacing=3;spacing=6;spacingTop=0;" vertex="1" parent="qPp3lJdlhkr1oG_WdOik-11">
+          <mxGeometry x="2.75" y="25" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-13" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Pengumpulan Data&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="373" width="195.5" height="120" as="geometry">
+            <mxRectangle x="360" y="290" width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-14" value="1. Menentukan Responden&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Penyebaran Kursioner&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Pengisian oleh responden&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;strokeWidth=4;perimeterSpacing=3;spacing=6;spacingTop=0;" vertex="1" parent="qPp3lJdlhkr1oG_WdOik-13">
+          <mxGeometry x="5.75" y="23" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-16" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Pengolahan Data&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="515" width="195.5" height="90" as="geometry">
+            <mxRectangle x="360" y="290" width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-17" value="1. Scoring Penelitian&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Tabulasi Data&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;strokeWidth=4;perimeterSpacing=3;spacing=6;spacingTop=0;" vertex="1" parent="qPp3lJdlhkr1oG_WdOik-16">
+          <mxGeometry x="5.75" y="23" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416.75" y="714.9999999999999" as="sourcePoint" />
+            <mxPoint x="417.2500000000001" y="738" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-20" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Analisis Data&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="625" width="195.5" height="90" as="geometry">
+            <mxRectangle x="360" y="290" width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-21" value="1. Interpretasi Data&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Evaluasi aspek Usability&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;strokeWidth=4;perimeterSpacing=3;spacing=6;spacingTop=0;" vertex="1" parent="qPp3lJdlhkr1oG_WdOik-20">
+          <mxGeometry x="7.75" y="23" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qPp3lJdlhkr1oG_WdOik-25" target="qPp3lJdlhkr1oG_WdOik-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-25" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Analisis Hasil dan Validasi&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="738" width="195.5" height="70" as="geometry">
+            <mxRectangle x="360" y="290" width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-26" value="1. Penulisan Laporan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;strokeWidth=4;perimeterSpacing=3;spacing=6;spacingTop=0;" vertex="1" parent="qPp3lJdlhkr1oG_WdOik-25">
+          <mxGeometry x="8.25" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-34" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373.25" y="830" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.524;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="170" as="sourcePoint" />
+            <mxPoint x="412.596" y="190.176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.512;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.2500000000001" y="605" as="sourcePoint" />
+            <mxPoint x="416.0959999999999" y="625.6299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPp3lJdlhkr1oG_WdOik-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.516;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415.25" y="493" as="sourcePoint" />
+            <mxPoint x="417.37800000000016" y="515.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
